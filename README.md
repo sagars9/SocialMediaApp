@@ -1,4 +1,4 @@
-# 🔥🔥 Wooble Social Media App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
+# 🔥🔥 Wooble Social Media App  
 
 Wooble is a fully functional social media app with multiple features built with flutter and dart.
 
@@ -106,5 +106,5 @@ Double check install instructions for both
 
 ## 🤓 Author(s)
 
-**Charly Keleb
-CharlyKeleb** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
+**Sagar Singh
+Sagar Singh**
