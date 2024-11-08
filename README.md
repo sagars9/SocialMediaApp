@@ -106,5 +106,4 @@ Double check install instructions for both
 
 ## 🤓 Author(s)
 
-**Sagar Singh
-Sagar Singh**
+**Sagar Singh**
